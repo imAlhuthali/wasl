@@ -1,8 +1,6 @@
 {
-  "name": "wasl",
+  "name": "wasl-48e1",
   "private": true,
-  "license": "MIT",
-  "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com/)",
   "sideEffects": false,
   "type": "module",
   "imports": {
@@ -165,5 +163,9 @@
   },
   "prisma": {
     "seed": "tsx prisma/seed.ts"
+  },
+  "epic-stack": {
+    "head": "fb917dc0593e0e93addcd5be3a75b26e1672c3c3",
+    "date": "2025-04-02T23:12:39Z"
   }
 }
